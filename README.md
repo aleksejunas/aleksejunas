@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Rolf Aleksejunas Christensen @aleksejunas
-- 👀 I’m interested in music, computers, motorbikes, coding
-- 🌱 I’m currently learning JavaScript, SQL, CSS, Java
+- 👀 I’m interested in music, computers, motorbikes, coding, photography [in no partcicular order]
+- 🌱 I’m currently learning JavaScript, SQL, CSS, Java, C, Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me photo@seventyseven.no
 -  <img  style="width: 150px; margin-top: 200px;" src="https://forum.manjaro.org/uploads/default/original/1X/6c2c472950cd0e21a709535d773ef716a1af56ea.png">
