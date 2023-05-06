@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Rolf Aleksejunas Christensen @aleksejunas
-- 👀 I’m interested in music, computers, motorbikes, coding, photography [in no partcicular order]
+- 👀 I’m interested in music, computers, motorbikes, coding, photography [in no particular order]
 - 🌱 I’m currently learning JavaScript, SQL, CSS, Java, C, Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me photo@seventyseven.no
