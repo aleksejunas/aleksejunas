@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Rolf Aleksejunas Christensen @aleksejunas
 - 👀 I’m interested in music, computers, motorbikes, coding, photography [in no particular order]
 - 💾 Languages JavaScript, typescript, SQL, Java, C, C#, Kotlin, C++, Arduino, SwiftUI
-- 🌱 I’m currently learning SwiftUI, Typescript
+- 🌱 I’m currently learning Typescript, React Native, Expo
+- 💼 I'm currently building a React Native app using Typescript & TailwindCSS
 - 💞️ I’m looking to collaborate on ...
 - 🐧 Linux User
 - 📫 How to reach me photo@seventyseven.no
