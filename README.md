@@ -25,14 +25,14 @@
    <img  style="width: 750px; margin-top: 800px;" src="https://forum.manjaro.org/uploads/default/original/1X/6c2c472950cd0e21a709535d773ef716a1af56ea.png">
 
 ## My desktop is powered by:
-
+```
   ___ ___                      .__                     .___
  /   |   \ ___.__._____________|  | _____    ____    __| _/
 /    ~    <   |  |\____ \_  __ \  | \__  \  /    \  / __ | 
 \    Y    /\___  ||  |_> >  | \/  |__/ __ \|   |  \/ /_/ | 
  \___|_  / / ____||   __/|__|  |____(____  /___|  /\____ | 
        \/  \/     |__|                   \/     \/      \/ 
-
+```
 <!--
 aleksejunas/aleksejunas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
