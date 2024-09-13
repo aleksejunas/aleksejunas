@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m Rolf Aleksejunas Christensen @aleksejunas
-- 👀 I’m interested in music, computers, motorbikes, coding, photography [in no particular order]
+- 👀 I’m interested in music, computers, motorbikes, Linux, coding, photography [in no particular order]
 - 💾 Languages | JavaScript, Typescript, SQL, Java, C, C#, Kotlin, C++, Arduino, SwiftUI
 - 🖼️ Frameworks | React, React Native, Expo
 - 🌱 I'm currently learning Docker, NeoVim, Pandoc 
-- 💼 I'm currently building a React site using Vite, pnpm, Typescript, C#, .NET & TailwindCSS
+- 💼 I'm currently building a React site using Vite, pnpm, Typescript, firebase & TailwindCSS
 - 💞️ I’m looking to collaborate on ...
 - 🐧 Linux User
 - 📫 How to reach me rolf@seventyseven.no
